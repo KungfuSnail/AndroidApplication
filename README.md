@@ -1,4 +1,6 @@
-NOTE: Google Play Store has taken down my application temporarily until I update the API version. I will fix it as soon as I can get to it
+NOTE: Google Play Store has taken down my application temporarily until I update the API version. I will fix it as soon as I can get to it.
+
+In the meanwhile, you can directly download the apk if you'd like.
 
 
 # AndroidApplication
